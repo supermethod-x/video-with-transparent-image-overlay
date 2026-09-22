@@ -1,0 +1,8 @@
+# project
+*.af
+
+# types
+*.mp4
+*.png
+!video.mp4
+!overlay.png

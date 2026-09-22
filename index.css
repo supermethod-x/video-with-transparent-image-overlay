@@ -1,0 +1,22 @@
+body {
+	position: relative;
+
+	width: 50%;
+}
+
+video {
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	width: 100%;
+}
+
+img#overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 2;
+
+	width: 100%;
+}
